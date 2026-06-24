@@ -451,29 +451,6 @@ node websocket-server.js
    ```
 4. **Firewall ?** Peut-être bloquer le port 3000
 
----
-
-## 📚 Documentation détaillée
-
-Pour plus de détails sur le code et l'architecture, consulte :
-
-- **[DOCUMENTATION_COMPLETE.md](./DOCUMENTATION_COMPLETE.md)** - Explications détaillées de chaque composant
-- **[PRESENTATION_EFREI.pptx](./PRESENTATION_EFREI.pptx)** - Présentation du projet
-
----
-
-## 🤝 Contribution
-
-Les contributions sont bienvenues ! 
-
-### Pour contribuer :
-
-1. Fork le repository
-2. Crée une branche (`git checkout -b feature/AmazingFeature`)
-3. Commit tes changements (`git commit -m 'Add AmazingFeature'`)
-4. Push sur la branche (`git push origin feature/AmazingFeature`)
-5. Ouvre une Pull Request
-
 ### Idées d'amélioration
 
 - [ ] Ajouter l'authentification API Binance (au lieu du WebSocket public)
@@ -495,31 +472,20 @@ Ce projet est sous licence **MIT**. Voir [LICENSE](LICENSE) pour plus de détail
 
 ## 👤 Auteur
 
-**Cheryle Awa Efreni**  
+**Cheryle Ebing'ne & Derya keskin**  
 Master 1 Data Engineering & IA  
 EFREI Paris | Juin 2026
 
 ---
 
-## 📞 Support
+## Support
 
 Si tu as des questions ou des problèmes :
 
-1. Consulte le [Troubleshooting](#troubleshooting)
-2. Lis la [Documentation complète](./DOCUMENTATION_COMPLETE.md)
-3. Ouvre une [Issue](../../issues) sur GitHub
+1. Lis la [Documentation complète](./DOCUMENTATION_COMPLETE.md)
+2. Ouvre une [Issue](../../issues) sur GitHub
 
----
 
-## 🌟 Remerciements
-
-- 🎓 EFREI Paris pour la formation
-- 📊 Binance pour l'API WebSocket
-- 🐳 Docker pour la containerization
-- ⚙️ Apache Kafka pour le message broking
-- 💾 MongoDB pour la persistance
-
----
 
 <div align="center">
 
