@@ -8,7 +8,7 @@ const kafka = new Kafka({
   brokers: ['localhost:29092']
 });
 
-const mongoClient = new MongoClient('mongodb://localhost:27017');
+const mongoClient = new MongoClient('mongodb://localhost:27018');
 let db;
 
 class MetricsAggregator {

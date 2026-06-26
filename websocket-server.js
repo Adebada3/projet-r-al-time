@@ -9,7 +9,7 @@ const app = express();
 const server = http.createServer(app);
 const wss = new WebSocket.Server({ server });
 
-const mongoClient = new MongoClient('mongodb://localhost:27017');
+const mongoClient = new MongoClient('mongodb://localhost:27018');
 let metricsCollection;
 
 // Crée le dossier public s'il n'existe pas
